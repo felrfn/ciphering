@@ -1,4 +1,4 @@
-# chipering - felrfn
+# ciphering - felrfn
 
 A web-based encryption and decryption calculator for the Cryptography (TSK1624604) assignment implementing Vigenère, Affine, Playfair, Hill, and Enigma ciphers.
 
@@ -9,13 +9,13 @@ A web-based encryption and decryption calculator for the Cryptography (TSK162460
 ### Clone the repository
 
 ```bash
-git clone https://github.com/felrfn/chipering.git
+git clone https://github.com/felrfn/ciphering.git
 ```
 
 ### Run
 
 ```bash
-cd chipering
+cd ciphering
 pnpm run dev
 ```
 
